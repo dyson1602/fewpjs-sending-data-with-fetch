@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,46 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "fsdfsf",
+      "dogBreed": "sfdf",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "fsdfsf",
+      "dogBreed": "sfdf",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "dogName": "fsdfsf",
+      "dogBreed": "sfdf",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "dogName": "Paco",
+      "dogBreed": "Chihuahua",
+      "submit": "Submit",
+      "id": 6
+    },
+    {
+      "dogName": "Paco",
+      "dogBreed": "Chihuahua",
+      "submit": "Submit",
+      "id": 7
+    },
+    {
+      "dogName": "Paco",
+      "dogBreed": "Chihuahua",
+      "submit": "Submit",
+      "id": 8
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +59,848 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 48
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 49
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 50
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 51
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 52
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 53
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 54
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 55
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 56
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 57
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 58
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 59
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 60
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 61
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 62
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 63
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 64
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 65
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 66
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 67
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 68
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 69
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 70
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 71
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 72
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 73
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 74
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 75
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 76
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 77
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 78
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 79
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 80
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 81
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 82
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 83
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 84
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 85
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 86
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 87
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 88
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 89
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 90
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 91
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 92
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 93
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 94
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 95
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 96
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 97
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 98
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 99
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 100
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 101
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 102
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 103
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 104
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 105
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 106
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 107
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 108
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 109
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 110
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 111
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 112
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 113
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 114
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 115
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 116
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 117
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 118
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 119
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 120
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 121
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 122
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 123
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 124
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 125
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 126
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 127
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 128
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 129
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 130
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 131
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 132
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 133
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 134
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 135
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 136
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 137
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 138
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 139
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 140
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 141
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 142
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 143
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 144
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 145
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 146
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 147
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 148
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 149
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 150
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 151
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 152
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 153
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 154
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 155
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 156
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 157
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 158
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 159
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 160
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 161
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 162
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 163
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 164
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 165
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 166
+    },
+    {
+      "name": "Chris",
+      "email": "clark@gmail.com",
+      "id": 167
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
